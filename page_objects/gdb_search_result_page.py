@@ -11,7 +11,7 @@ class ResultsPage:
     SHIP_CLASS_FIELD = (By.ID, 'ship_class_field')
     SHIP_STATUS_FIELD = (By.ID, 'ship_status_field')
     QTY_TURBO_LASER_FIELD = (By.ID, 'qty_turbo_laser_field')
-    QTY_ION_CANNON_FIELD = (By.ID, 'qty_ion_cannong_field')
+    QTY_ION_CANNON_FIELD = (By.ID, 'qty_ion_cannon_field')
     QTY_TRACTOR_BEAMS_FIELD = (By.ID, 'div.qty_tractor_beams_field')
 
     def __init__(self, browser):

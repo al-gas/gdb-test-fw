@@ -28,24 +28,3 @@ class TestFilterFields:
     def status_field_test(self):
         pass
 
-
-class TestArmament:
-    browser = webdriver.Chrome()
-    res_page = ResultsPage(browser=browser)
-    res_page.load()
-
-    def armament_turbo_laser_field_test(self):
-        """
-        Verify correct enter for
-        assert
-        """
-
-        pass
-
-    def armament_ion_cannon_field_test(self):
-
-        pass
-
-    def armament_tractor_beams_field_test(self):
-
-        pass
