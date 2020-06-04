@@ -1,0 +1,22 @@
+{
+    "id":     1,
+    "name":   "Devastator",
+    "class":  "Star Destroyer",
+    "crew":   35000,
+    "image":  "https:\\url.to.image", "value": 1999.99,
+    "status": "operational",
+    "armament": [
+        {
+          "title": "Turbo Laser",
+          "qty":   "60"
+        },
+        {
+          "title": "Ion Cannons",
+          "qty": "  60"
+        },
+        {
+          "title": "Tractor Beam",
+          "qty":   "10"
+        }
+    ]
+}
